@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <h1>Hello welcome to React app</h1>
+        <h1>Hello welcome to React app edited for docker</h1>
         <p>this is para</p>
 
       </header>
